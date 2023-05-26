@@ -1,2 +1,1 @@
-my first readme
-`
+I am an SE student at ALU
